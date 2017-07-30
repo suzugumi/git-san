@@ -16,10 +16,10 @@
 
     <nav>
       <ul id="thumbnails">
-        <!-- <li class="current"><img src="img/food0.jpg" width="45" height="30"></li>
+        <li class="current"><img src="img/food0.jpg" width="45" height="30"></li>
         <li><img src="img/food1.jpg" width="45" height="30"></li>
         <li><img src="img/food2.jpg" width="45" height="30"></li>
-        <li><img src="img/food3.jpg" width="45" height="30"></li> -->
+        <li><img src="img/food3.jpg" width="45" height="30"></li> 
       </ul>
       <div id="play">
         <i class="fa fa-play" aria-hidden="true"></i> 再生
